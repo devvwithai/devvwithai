@@ -11,9 +11,9 @@
 
 - 🤝 I’m looking for help with **Scaling Discord Bot**
 
-- 👨‍💻 All of my projects are available at [Coming Soon](Coming Soon)
+- 👨‍💻 All of my projects are available at [Coming Soon]
 
-- 📝 I regularly write articles on [Coming Soon](Coming Soon)
+- 📝 I regularly write articles on [Coming Soon]
 
 - 💬 Ask me about **Building AI projects, developing Discord bots**
 
