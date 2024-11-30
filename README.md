@@ -34,4 +34,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devvwithai&show_icons=true&theme=dark&bg_color=0d1117&locale=en" alt="devvwithai" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devvwithai&theme=default" alt="devvwithai" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devvwithai&theme=highcontrast" alt="devvwithai" /></p>
