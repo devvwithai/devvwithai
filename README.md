@@ -1,6 +1,8 @@
 <h1 align="center">Hey, I'm Dev With AI 👋</h1>
 <h3 align="center">Turning Ideas into Reality with Artificial Intelligence</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devvwithai&label=Profile%20views&color=0e75b6&style=flat" alt="devvwithai" /> </p>
+
 - 🔭 I’m currently working on **Discord Bot Development**
 
 - 🌱 I’m currently learning **AI with Python**
